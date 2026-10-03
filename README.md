@@ -6,7 +6,7 @@ Submitted by: **Dan Sevalie-Gborie**
 
 The Campgrounds side was rebuilt to match the modern look of the National Parks app: the same Material 3 photo cards, forest-green theme, search, and a full detail screen.
 
-Time spent: **X** hours spent in total
+Time spent: **30** hours spent in total
 
 ## Required Features
 
@@ -49,9 +49,8 @@ The following **stretch** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <!-- Replace with your GIF or video link -->
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Watch the video](https://img.youtube.com/vi/essLpaWsIck/hqdefault.jpg)](https://youtu.be/essLpaWsIck)
 
-GIF created with ...
 
 ## How it's built
 
